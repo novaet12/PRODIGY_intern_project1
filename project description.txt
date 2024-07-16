@@ -1,0 +1,6 @@
+the purpose of this task is :
+Task-01
+Implement a linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms.
+i've decided to use these ML librarys and python language:pandas,skilearn,numpy
+
+my project process and procidure are:
